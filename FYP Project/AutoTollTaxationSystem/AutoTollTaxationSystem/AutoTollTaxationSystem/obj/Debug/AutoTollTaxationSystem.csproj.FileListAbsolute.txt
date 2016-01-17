@@ -1,0 +1,13 @@
+C:\Users\Khans\Documents\Visual Studio 2008\Projects\AutoTollTaxationSystem\AutoTollTaxationSystem\bin\Debug\AutoTollTaxationSystem.exe
+C:\Users\Khans\Documents\Visual Studio 2008\Projects\AutoTollTaxationSystem\AutoTollTaxationSystem\bin\Debug\AutoTollTaxationSystem.pdb
+C:\Users\Khans\Documents\Visual Studio 2008\Projects\AutoTollTaxationSystem\AutoTollTaxationSystem\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Khans\Documents\Visual Studio 2008\Projects\AutoTollTaxationSystem\AutoTollTaxationSystem\obj\Debug\AutoTollTaxationSystem.HomePage.resources
+C:\Users\Khans\Documents\Visual Studio 2008\Projects\AutoTollTaxationSystem\AutoTollTaxationSystem\obj\Debug\AutoTollTaxationSystem.Properties.Resources.resources
+C:\Users\Khans\Documents\Visual Studio 2008\Projects\AutoTollTaxationSystem\AutoTollTaxationSystem\obj\Debug\AutoTollTaxationSystem.csproj.GenerateResource.Cache
+C:\Users\Khans\Documents\Visual Studio 2008\Projects\AutoTollTaxationSystem\AutoTollTaxationSystem\obj\Debug\AutoTollTaxationSystem.exe
+C:\Users\Khans\Documents\Visual Studio 2008\Projects\AutoTollTaxationSystem\AutoTollTaxationSystem\obj\Debug\AutoTollTaxationSystem.pdb
+C:\Users\Khans\Documents\Visual Studio 2008\Projects\AutoTollTaxationSystem\AutoTollTaxationSystem\obj\Debug\AutoTollTaxationSystem.form_AdminLogin.resources
+C:\Users\Khans\Documents\Visual Studio 2008\Projects\AutoTollTaxationSystem\AutoTollTaxationSystem\obj\Debug\AutoTollTaxationSystem.form_AdminSession.resources
+C:\Users\Khans\Documents\Visual Studio 2008\Projects\AutoTollTaxationSystem\AutoTollTaxationSystem\obj\Debug\AutoTollTaxationSystem.form_BalDeduct.resources
+C:\Users\Khans\Documents\Visual Studio 2008\Projects\AutoTollTaxationSystem\AutoTollTaxationSystem\obj\Debug\AutoTollTaxationSystem.form_Registration.resources
+C:\Users\Khans\Documents\Visual Studio 2008\Projects\AutoTollTaxationSystem\AutoTollTaxationSystem\obj\Debug\AutoTollTaxationSystem.form_TopUp.resources
